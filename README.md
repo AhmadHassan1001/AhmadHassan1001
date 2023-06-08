@@ -22,10 +22,6 @@ I enjoy problem solving and challenging tasks.
 <a href="https://www.canva.com/design/DAFlPg3xQj4/V3fegtWuSwfcWIQ18y7h9w/edit?utm_content=DAFlPg3xQj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
         <img src="https://img.shields.io/badge/-RESUME-blue" alt="Resume Badge">
     </a>
-<p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan1001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-</p>
 
 
 ### Languages
@@ -44,6 +40,12 @@ I enjoy problem solving and challenging tasks.
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
   
+<br>
+<p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan1001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</p>
+
 <br>
 <p align="center">
   <a href="https://github.com/AhmadHassan1001">
