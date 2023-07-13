@@ -16,7 +16,7 @@ I enjoy problem solving and challenging tasks.
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&&logo=gmail&logoColor=white&height=20" alt="Gmail Badge">
     </a>
 <a href="https://codeforces.com/profile/AhmadHassan">
-        <img src="https://cp-logo.vercel.app/codeforces/AhmadHassan?logo=true" alt="Codeforces Badge">
+<!--         <img src="https://cp-logo.vercel.app/codeforces/AhmadHassan?logo=true" alt="Codeforces Badge"> -->
     </a>
 
 <a href="https://www.canva.com/design/DAFlPg3xQj4/V3fegtWuSwfcWIQ18y7h9w/edit?utm_content=DAFlPg3xQj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -49,7 +49,7 @@ I enjoy problem solving and challenging tasks.
 <br>
 <p align="center">
   <a href="https://github.com/AhmadHassan1001">
-    <img src="https://komarev.com/ghpvc/?username=AhmadHassan1001&color=blue&style=flat)" />
+<!--     <img src="https://komarev.com/ghpvc/?username=AhmadHassan1001&color=blue&style=flat)" /> -->
   </a>
 </p>
 
