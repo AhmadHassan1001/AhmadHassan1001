@@ -43,13 +43,13 @@ I enjoy problem solving and challenging tasks.
 <br>
 <p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan1001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHassan1001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vision-friendly-dark"/> -->
 </p>
 
 <br>
 <p align="center">
   <a href="https://github.com/AhmadHassan1001">
-<!--     <img src="https://komarev.com/ghpvc/?username=AhmadHassan1001&color=blue&style=flat)" /> -->
+    <img src="https://komarev.com/ghpvc/?username=AhmadHassan1001&color=blue&style=flat)" />
   </a>
 </p>
 
